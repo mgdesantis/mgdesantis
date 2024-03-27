@@ -1,11 +1,12 @@
 # AboutMe
 - 👋 Hi, I’m Matthew.
-- 👀 I’m interested in automation and electronics.
+- 👀 I’m interested in cloud and networking.
 - 🌱 I’m currently learning a lot of things.
 - 💞️ I’m looking to collaborate on something simple.
-- 📫 How to reach me: iknowth@everyone.wantstobe.me
 
 ## Certifications
+- AWS Certified Cloud Practitioner
+- Microsoft: Azure Fundamentals
 - CompTIA A+
 - CompTIA Network+
 - CompTIA Security+
@@ -16,7 +17,6 @@
 - PowerShell
 - Batch
 - Bash
-- C
 - Python
 - Haskell
 - Lua
